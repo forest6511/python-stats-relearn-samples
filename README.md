@@ -5,6 +5,8 @@
 書籍『Pythonで学び直す統計・確率』（森川 陽介 著）の全 LESSON の Python コードです。
 すべて **Google Colab** にそのまま貼り付けて動きます（インストール不要）。
 
+Kindle 版: [Pythonで学び直す統計・確率](https://www.amazon.co.jp/dp/B0H8C6STJV)
+
 ## 使い方
 
 1. [Google Colab](https://colab.research.google.com/) を開き、Google アカウントでログインします（無料。実行にはログインが必要です）
